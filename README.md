@@ -31,7 +31,7 @@ DMVPN-PHASE3-IPSEC-IKEv2/
 │   ├── hub-ospf.png
 │   └── sitec-ospf.png
 ├── DMVPN-F3-IKEv2
-├── RandyNin_2025-0660_Informe_P1.md
+├── Documentación Tecnica Profesional VPN - DMVPN Fase 3 - IPSec IKEv2 (Randy Nin -- 2025-0660).pdf
 └── README.md
 ```
 
