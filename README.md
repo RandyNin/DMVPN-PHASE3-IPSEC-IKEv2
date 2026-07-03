@@ -10,7 +10,7 @@ Implementación completa de DMVPN Phase 3 con IPSec IKEv2 en una topología hub-
 
 ```
 DMVPN-PHASE3-IPSEC-IKEv2/
-├── images/
+├── IMG/
 │   ├── topology.png
 │   ├── before-vpn-ping.png
 │   ├── after-vpn-ping.png
